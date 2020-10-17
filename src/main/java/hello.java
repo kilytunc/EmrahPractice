@@ -4,6 +4,7 @@ public class hello {
 
 
        // for second commit
+        // some changes
 
     }
 }
